@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694314434518",
+    "project_id": "mobilekelasb",
+    "storage_bucket": "mobilekelasb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694314434518:android:a4cfbab3010ca9d7cc6e77",
+        "android_client_info": {
+          "package_name": "com.example.mobilekelasb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694314434518-5aol8tkts4pj3n8q877km08u41qe781b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-YNdJxUmqW5PEcZ0r7qt9AcJPDAepCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694314434518-5aol8tkts4pj3n8q877km08u41qe781b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
